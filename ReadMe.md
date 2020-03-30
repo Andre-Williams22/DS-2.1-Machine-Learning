@@ -35,26 +35,26 @@ By the end of the course the students will be able to
 
 
 ## Schedule
-**Course Dates:** Monday, August 26 – Wednesday, October 9, 2019 (7 weeks)
+**Course Dates:** Monday, March 30 – Wednesday, May 13, 20266701 (7 weeks)
 
-**Class Times:** Monday and Wednesday at 1:30–3:20pm (13 class sessions)
+**Class Times:** 2:30pm to 5:15pm on Monday, Wednesday (13 class sessions)
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  1 |   Mon, Aug 26                          | [Introduction to Machine Learning] |
-|  2 |   Wed, Aug 28                            | [Linear Regression] |
-|  - |   Mon, Sept 2                        | **NO CLASS** - Labor Day |
-|  3 |   Wed, Sept 4                            | [Support Vector Machine] |
-|  4 |   Mon, Sept 9                         | [Logistic Regression] |
-|  5 |   Wed, Sept 11                            | [Model Evaluation] |
-|  6 |   Mon, Sept 16                         | [Principal Component Analysis] |
-|  7 |   Wed, Sept 18                            | [Decision Tree] |
-|  8 |   Mon, Sept 23                           | [Clustering] |
-|  9 |   Wed, Sept 25                             | [Review Session] |  
-| 10 |   Mon, Sept 30                         | [Naive Bayes]|
-| 11 |   Wed, Oct 2                         | [TFIDF and its Application]  |
-| 12 |   Mon, Oct 7                         |  [Ensemble Methods] |
-| 13 |   Wed, Oct 9                         | Final Exam/Presentations  |
+|  1 |   Mon, March 30                           | [Introduction to Machine Learning] |
+|  2 |   Wed, April 1                            | [Linear Regression] |
+|  - |   Mon, April 6                        | [Support Vector Machine] |
+|  3 |   Wed, April 8                            | [Logistic Regression] |
+|  4 |   Mon, April 13                         | [Model Evaluation] |
+|  5 |   Wed, April 15                            | [Principal Component Analysis] |
+|  6 |   Mon, April 20                         | [Decision Tree] |
+|  7 |   Wed, April 22                            | [Clustering] |
+|  8 |   Mon, April 27                           | [Review Session] |
+|  9 |   Wed, April 29                             | [Naive Bayes] |  
+| 10 |   Mon, May 4                         | [TFIDF and its Application]|
+| 11 |   Wed, May 6                         | [Ensemble Methods]  |
+| 12 |   Mon, May 11                         |  Final Exam |
+| 13 |   Wed, May 13                         | Presentations  |
 
 
 [Introduction to Machine Learning]: Lessons/IntroductiontoMachineLearning.md
@@ -70,10 +70,25 @@ By the end of the course the students will be able to
 [Naive Bayes]: Lessons/NaiveBayes.md
 [TFIDF and its Application]: Lessons/TFIDF.md
 [Ensemble Methods]: Lessons/EnsembleMethods.md
+
+## Assignment Schedule
+
+**[INSTRUCTOR NOTE] REPLACE THE BELOW WITH LINKS TO YOUR ASSIGNMENTS, CORRECT DATES, AND SUBMISSION FORM**
+
+|                        Assignment                         | Date Assigned |   Due Date   |            Submission Form           |
+|:---------------------------------------------------------:|:-------------:|:------------:|:------------------------------------:|
+| [Homework 1 - Linear Regression for Boston Housing Dataset]                      |  Wed, April 1  |  Wed, April 8 | [Submit Assignment](makeschool.com)  |
+| [Homework 2 - SVM for Breast Cancer Dataset]                      |  Wed, April 8    |  Wed, April 15   | [Submit Assignment](makeschool.com)  |
+| [Homework 3 - PCA and K-Means Clustering on wholesale customers dataset]                     |  Wed, April 22    |  Wed, April 29   | [Submit Assignment](makeschool.com)  |
+
+[Homework 1 - Linear Regression for Boston Housing Dataset]: ./Assignments/Home_Work_Linear_Regression.ipynb
+[Homework 2 - SVM for Breast Cancer Dataset]:/Assignments/08_Support_Vector_Machines.ipynb
+[Homework 3 - PCA and K-Means Clustering on wholesale customers dataset]:/Assignments/Home_Work_PCA_Kmeans.ipynb
+
 ## Class Assignments
 - Apply Linear Regression for Boston Housing Dataset
 - Apply SVM for Breast Cancer Dataset
-- Apply PCA and K-Means Clustering on wholesale customers dataset 
+- Apply PCA and K-Means Clustering on wholesale customers dataset
 - Projects should be linked to a project page which has a description & requirements.
 
 ### Tutorials
